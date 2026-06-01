@@ -421,6 +421,6 @@ Protected: Request → Authorization header → jwt.verify → req.user → Resp
 
 ## 👨‍💻 Author
 
-Dibuat sebagai project tugas kuliah Backend — Semester 6
-Damar Djati Hutama (5230411038)
-Ahmad Fata Dani Adnan (5230411042).
+Dibuat sebagai project tugas kelompok Backend — Semester 6
+- Damar Djati Hutama (5230411038)
+- Ahmad Fata Dani Adnan (5230411042).
